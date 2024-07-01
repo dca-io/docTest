@@ -1,3 +1,5 @@
+[This file on github](https://github.com/dca-io/docTest/blob/main/imagetest.md)
+
 # Project GDrive 2 Markdown Sync
 This is a test to see if I can sync this with gdrive and have the files automatically uploaded to Gdrive. Will this work?
 
@@ -6,3 +8,11 @@ This is a test to see if I can sync this with gdrive and have the files automati
 * The goal here is to store these files in a directory that is sync'ed to gdrive, and all of the files and images are synced up to Gdrive.
 * all images should probably be put in a subdirectory so they don't clutter up the files.
 * The intention here is to link this directory to Gdrive - and see if the files will automatically upload.
+
+Ok, here is another image
+
+![alt text](${documentDirname}/images/image.png)
+
+ok, let's try yet another image
+
+![alt text](images/image.png)
